@@ -1,0 +1,11 @@
+{
+	"title": "VØID Nextbot",
+	"type": "npc",
+	"tags": [ "fun", "scenic" ],
+	"ignore": [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
+
